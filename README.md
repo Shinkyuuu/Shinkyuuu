@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shinkyuuu
+- 👀 I’m interested in programming, videogames, and good food
+- 🌱 I’m currently learning korean, encryption algorithms, and github
+- 💞️ I’m looking to collaborate on programming projects that Ican learn from
+- 📫 How to reach me parkc13@my.erau.edu
