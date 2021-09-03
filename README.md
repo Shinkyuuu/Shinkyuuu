@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shinkyuuu
-- 👀 I’m interested in programming, video sgames, and good food
-- 🌱 I’m currently learning korean, encryption algorithms, and github
+- 👀 I’m interested in programming, video games, and food
+- 🌱 I’m currently learning korean, C++, and SQL
 - 💞️ I’m looking to collaborate on programming projects that I can learn from
 - 📫 How to reach me parkc13@my.erau.edu or codyspark@gmail.com
