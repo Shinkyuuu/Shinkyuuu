@@ -8,6 +8,14 @@
   <img href="https://github.com/Shinkyuuu/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkyuuu&theme=dracula&show_icons=true&langs_count=7&hide=PowerShell" />
 </p>
 
+## Contact me
+✉️ <b>parkc13@my.erau.edu</b> (School email)
+
+✉️ <b>codyspark@gmail.com</b> (Personal email)
+
+📞 <b>224-875-9716</b>
+
+## Technologies I am familiar with
 <p align="center">
   <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="10%"/>
