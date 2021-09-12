@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Shinkyuuu
-- 👀 I’m interested in programming, video games, and food
-- 🌱 I’m currently learning korean, C++, and SQL
-- 💞️ I’m looking to collaborate on programming projects that I can learn from
-- 📫 How to reach me parkc13@my.erau.edu or codyspark@gmail.com
+# Hello there! 👋
 
-<p align="center">
-  <img href="https://github.com/Shinkyuuu/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkyuuu&theme=dracula&show_icons=true&langs_count=7&hide=PowerShell" />
-</p>
+My name is Cody Park and I am currently in my Junior software engineering student at Embry Riddle Aeronautical University.  In my free time, you can probably find me programming, playing video games, watching food videos, or eating food. I take interest in learning about the endless capabilities of coding via personal projects and enjoy seeking out new ways to challenge myself.
 
 ## Contact me
 ✉️ <b>parkc13@my.erau.edu</b> (School email)
