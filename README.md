@@ -7,8 +7,6 @@ My name is Cody Park and I am currently in my Junior software engineering studen
 
 ✉️ <b>codyspark@gmail.com</b> (Personal email)
 
-📞 <b>224-875-9716</b>
-
 ## Technologies I am familiar with
 <p align="center">
   <span>
