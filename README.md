@@ -1,6 +1,7 @@
 # Hello there! 👋
 
-My name is Cody Park and I am currently in my Junior software engineering student at Embry Riddle Aeronautical University.  In my free time, you can probably find me programming, playing video games, watching food videos, or eating food. I take interest in learning about the endless capabilities of coding via personal projects and enjoy seeking out new ways to challenge myself.
+<a href="https://github.com/Shinkyuuu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shinkyuuu&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true&show=contribs,prs&count_private=true)" alt="Shinkyuuu's github stats" /></a> <a href="https://github.com/Shinkyuuu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkyuuu&layout=compact&theme=great-gatsby&hide_border=true)" /></a>
+
 
 ## Contact me
 ✉️ <b>parkc13@my.erau.edu</b> (School email)
